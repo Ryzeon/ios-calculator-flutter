@@ -1,8 +1,8 @@
 # IOS - Calculator replica
 
-A IOS Calculator replica based following (https://www.youtube.com/watch?v=eW0btem0yDw&list=PLCKuOXG0bPi0RNa-lwi2cmtOeuj9ON-Lq&index=2 )
-The intention of this project is learning flutter.
-It's my first app in flutter Btw :)
+* A IOS Calculator replica based following (https://www.youtube.com/watch?v=eW0btem0yDw&list=PLCKuOXG0bPi0RNa-lwi2cmtOeuj9ON-Lq&index=2 )
+* The intention of this project is learning flutter.
+* It's my first app in flutter Btw :)
 
 ## Getting Started
 
